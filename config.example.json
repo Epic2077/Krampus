@@ -1,0 +1,23 @@
+{
+    "dev": false,
+    "token": "NzkxMzc2MDI4OTc0NzEwODI0.X-OQXA.7ec7cPfZ2ZO_m3tEF_isAmystcU",
+    "owners": [605053795499769877],
+    "imdbKey": "c5cd67cb8dmsha81826b489a554fp158758jsnd4b2d6830ee7",
+    "reportsChannelId": "791378216119042108",
+    "openWeatherMapKey": "",
+    "feedBackChannelId": "791378216119042108",
+    "mongodbUri": "",
+    "giphyApiKey": "",
+    "errorLogsChannelId": "",
+    "alexflipnoteKey": "Kb_B1087zFCKmimhhRKAE-LqTGfM0F8cxZlfZTuj",
+    "dashboard": {
+        "enabled": false,
+        "discordApiUrl": "https://discordapp.com/api/v8/",
+        "jwtSecret": "",
+        "clientId": "",
+        "clientSecret": "",
+        "callbackUrl": "YOUR_URL + /api/auth/callback",
+        "dashboardUrl": "http://localhost:127.0.0.1",
+        "port": 3030
+    }
+}
